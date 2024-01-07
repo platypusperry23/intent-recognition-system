@@ -5,8 +5,9 @@ Currenlty this works on
 Python3.8.10 (arm64)
 
 U need to install 
-tensorflow 
-spaCy
-text-blob
+
+# tensorflow 
+# spaCy
+# text-blob
 
 also do python -m spacy download en_core_web_sm
