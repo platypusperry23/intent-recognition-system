@@ -1,0 +1,89 @@
+{
+    "intents": [
+          {
+                "intent": "early check-in",
+                "text": [
+                      "need to check in at 8", 
+                      "arriving by 10am, is it okay?", 
+                      "early arrival, room?", 
+                      "checkin around 9",
+                      "can I come in before noon?", 
+                      "room at 10, possible?", 
+                      "need room early", 
+                      "8am checkin possible?",
+                      "arriving at 9 am", 
+                      "possible to arrive at 10?", 
+                      "early checkin, need at 8", 
+                      "arrive early, room ready?",
+                      "can I get in before 9 am?",  
+                      "arriving by 10, can check in?",  
+                      "room required by 8:30",
+                      "want to checkin before 10am",    
+                      "possible to check in early?",    
+                      "checkin needed at 9",
+                      "room access before 10am?",   
+                      "early arrival, room check?",     
+                      "heckin at 9", "arriving 10am",
+                      "want to checkin earlier",    
+                      "arrive at 9 am, can I?", 
+                      "need room by 10", 
+                      "check in asap",
+                      "can I get in by 10am?", 
+                      "arrive 9, need room", 
+                      "early checkin, arriving 10am", 
+                      "want to be in by 9",
+                      "Interested in an early room access?", 
+                      "Can I occupy the room earlier than planned?",
+                      "Any chance I can check in earlier than the standard time?", 
+                      "Seeking an early check-in possibility",
+                      "Can the check-in procedure be expedited?", 
+                      "Looking for flexibility in the check-in time?",
+                      "Can I get the room keys before the regular check-in time?",
+                      "Wondering if early check-in arrangements can be made?", 
+                      "Can the room be ready for an early arrival?",
+                      "Is there an option for an earlier check-in slot?"
+                ]
+          },
+          {
+            "intent": "contact hotel",
+            "text": [
+                "I want to contact hotel",
+                "I want hotel contact number",
+                "I need contact number of hotel to make some request",
+                "Please send the address of your hotel",
+                "I just want to contact hotel",
+                "Kindlt connect with hotel",
+                "Need to contact the hotel",
+                "What is the phone number and email ID of treebo hiland suites in Bangalore?",
+                "Mail id if any?",
+                "Can u share the contact details?",
+                "So wanted to get in touch with Hiral staff",
+                "And we want to contact hote",
+                "Can you please share the contact number to talk to the property team",
+                "Hotel contact number",
+                "I wanted to contact the property","Contact info?","Hotel number?","Phone number?","Need contact.","Hotel contact?","Phone, please?","How contact?","Hotel details?","Reach out?","Contact, please?","Hotel phone?","Need info.","Contact data?","Num, please?","What's the best way to reach the hotel?","How can I get in touch with the hotel management?","Could you provide the means to contact your establishment?","Looking for ways to contact the hotel for assistance.","Can I have the hotel's contact info, please?","Seeking ways to communicate with the hotel.","How do I reach out to the hotel for queries?","Do you have contact information for the hotel?","Can you facilitate communication with the hotel?","Any details on reaching the hotel's reception?","Requesting contact information for inquiries.","How do I connect with the hotel's front desk?","Is there a contact number for guest queries?","Could you share the hotel's contact for bookings?","Seeking the hotel's communication details."
+            ]
+          },
+          {
+            "intent": "booking-confirmation",
+            "text": [
+                "Booking Reconfirmation:","Can you check the booking id : 4128345557","Is my booking ready, because will be leaving for the hotel soon","Plz confirm booking","Can you confirm that the room in confirmed now","Hi Sunil, Is my booking confirmed?","I made a booking tomorrow","Just wanted to remind hotel that we will be there around 12pm","I want to download invoice","I have booked a hotel booking","Can I get a confirmation of my reservation?","Need to verify my booking status.","Confirm my booking, please.","Is my reservation confirmed?","Hi, could you check if my booking is confirmed?","I booked a room, is it confirmed?","Can you double-check my reservation?","Want to ensure my booking is confirmed.","Confirm my room reservation, please.","Can I have the booking confirmation?","Need to confirm my hotel reservation.","Just checking if my booking went through.","Hi, I'd like to confirm my booking status.","Can you verify my room reservation?","Need confirmation for my hotel stay.","Is my hotel reservation confirmed?","I need confirmation of my booking.","Can you confirm my accommodation reservation?","Want to confirm my room booking.","Checking the status of my reservation.","Hi, can you confirm my hotel booking?","Need to check if my reservation is confirmed.","Confirming my stay details, please.","Can you confirm my room reservation, please?","I want to confirm my booking details.","Just making sure my booking is confirmed.","Hi, is my booking confirmed for tomorrow?","Can you provide confirmation for my reservation?","Need assurance that my booking is confirmed.","Can you verify the status of my room reservation?","Booking confirmed?","Confirm my reservation.","Is my booking okay?","Room confirmed?","Verify booking.","Confirmation, please?","Booking status?","Is it confirmed?","Room confirmation?","Check my booking.","Confirm my room.","Verified booking?","My reservation?","Booking confirmation?","Any confirmation?"
+            ]
+          },
+          {
+            "intent": "late check-in",
+            "text": [
+                "I need to check in late.","Arriving at 10 PM, is it possible to check in?","Late arrival, room needed?","Check-in around 9 PM.","Can I come in after noon?","Room available at 10 PM, is that possible?","Need a room later than usual.","Late check-in at 8 PM, is it okay?","Arriving late at 9 PM.","Possible to arrive by 10 PM for check-in?","Late check-in, need the room at 8 PM.","Arrive late, is the room ready?","Can I get in after 9 AM?","Arriving by 10 PM, can I check in?","Room required by 8:30 PM.","Want to check in before 10 PM.","Possible for a late check-in?","Check-in needed at 9 PM.","Room access after 10 PM?","Late arrival, room check?","Check-in at 9 PM, is that possible?","Arriving by 10 PM.","Looking to check in earlier, is it feasible?","Can I check in before 9 PM?","Late check-in, arriving by 10 PM.","Seeking a late check-in window.","Can I get into the room later than usual time?","Preferring a late check-in if possible.","Is there an option for a late check-in at the hotel?","Wondering if I can check in after the standard time.","Any chance for a late check-in?","Could you arrange a late arrival?","Seeking a late check-in slot.","Is a late check-in feasible?","Can I enter the room after the standard check-in time?","Hoping for a late check-in opportunity.","Any way to check in a bit later than usual?","Requesting a late check-in slot.","Want to check in after the standard check-in time.","Can the check-in time be moved later?","Is there flexibility for a late check-in?","Can I have the room ready after the standard time?","Looking for a late check-in possibility.","Can I arrive and check in later than planned?","Is there a chance to check in later than expected?","Any chance of a later check-in window?","Can I settle in after the regular check-in time?","Seeking permission for a late check-in.","Is there a way to secure a late room access?","Want to get into the room later than the stated time.","Would it be possible to check in later than the appointment?","Any provision for a late check-in time?","Are late arrivals accommodated here?","Can I prep the room after the standard check-in hour?","Is a late check-in option available?","I want to check-in late.","Book late check-in.","I would like to make late check-in at 8 PM.","Will be making a late check-out by evening 10 PM.","I will reach at 10 PM.","Do I need to call today or by tomorrow after arrival for late check-in?","Check-in Late.","Arrive late/Depart late.","I want a late check-in by 10 PM.","Please update the check-in time to 10 PM.","I wanted to do late check-in.","I want to check in late. I have already reached the city 2 hours back and have been waiting.","It would be of immense help if you can arrange late check-in.","I can reach the hotel at 10 PM.","When can I check in late?","Can I check in at 10:30 PM?","I need to check in late.","After 10 PM.","Actually, we want to check in by 8 PM but then the hotel is asking extra 500 for every room for late check-in.","Can late check-in be possible?","Can you allow late check-in by 11 PM?","May I check in later than the standard check-in time?","Is it feasible to arrive later than the check-in time?","Requesting a late check-in, is that an option?","How late can I check in?","I'd like to arrive after the usual check-in time.","Any chance of a late check-in?","Can I have a late check-in, please?","Would it be possible to check in later?","Could I check in later than the stated time?","Actual chat User input for late check-in.","I will reach at 10 PM.","I can reach hotel at 10 PM.","When can I check in late?","Can I check in at 10:30 PM?","Actually we want to check in by 8 PM but then the hotel is asking extra 500 for every room for late check-in.","Can late check in possible?","Can you allow late check in by 11 PM?","Late Check-in","Arrive Before Time","Check-in at 10 PM","Prior to 10","Late Arrival","Check-in by 9","Arrival Time","Before 10:00","Late Lodging","Ahead of Schedule","Room by 9 PM"
+            ]
+          },
+          {
+            "intent": "greeting",
+            "text": ["hi how are you", "hi I am user"]
+          },
+          {
+            "intent": "late check-out",
+            "text": ["Can I extend my stay by a few hours?","Is it possible to check out later than the scheduled time?","I need a late check-out, how can I arrange that?","Can you assist me with extending my check-out time?","What's the process for a late check-out?","Are there options for extending my stay for a few extra hours?","I'd like to request a late check-out, how do I do that?","How late can I check out?","Can I prolong my stay past the standard check-out time?","What's the policy on late check-outs?","Is there a possibility for me to leave later than the usual time?","What are the charges for a late check-out?","Can I stay a bit longer on the day of departure?","How can I arrange for a later check-out?","Is it allowed to stay longer than the check-out time?","Do you offer an extended check-out option?","Are there additional fees for a late check-out?","Can I have a check-out time extension?","What time is the latest I can check out?","Is it possible to check out in the afternoon?","I want to stay a bit longer, what should I do?","Can I get a later check-out today?","Do I need to inform someone for a late departure?","Can I leave my room later than the regular time?","Is there flexibility in the check-out time?","I need some extra time before leaving, is that possible?","Can I delay my check-out until the afternoon?","What happens if I check out later than usual?","Do you allow guests to stay past the check-out time?","I'm interested in a late check-out, what are the options available?Can I extend my stay by a few hours?","Is it possible to check out later than the scheduled time?","I need a late check-out, how can I arrange that?","Can you assist me with extending my check-out time?","What's the process for a late check-out?","Are there options for extending my stay for a few extra hours?","I'd like to request a late check-out, how do I do that?","How late can I check out?","Can I prolong my stay past the standard check-out time?","What's the policy on late check-outs?","Is there a possibility for me to leave later than the usual time?","What are the charges for a late check-out?","Can I stay a bit longer on the day of departure?","How can I arrange for a later check-out?","Is it allowed to stay longer than the check-out time?","Do you offer an extended check-out option?","Are there additional fees for a late check-out?","Can I have a check-out time extension?","What time is the latest I can check out?","Is it possible to check out in the afternoon?","I want to stay a bit longer, what should I do?","Can I get a later check-out today?","Do I need to inform someone for a late departure?","Can I leave my room later than the regular time?","Is there flexibility in the check-out time?","I need some extra time before leaving, is that possible?","Can I delay my check-out until the afternoon?","What happens if I check out later than usual?","Do you allow guests to stay past the check-out time?","I'm interested in a late check-out, what are the options available?", "Can I extend my checkout time by a few hours?","I need a late checkout, is that possible?","What are the options for extending my stay?","Is there a possibility for a late checkout today?","I'd like to stay a bit longer, can you arrange a late checkout?","What's the process for extending my checkout time?","Can I check out later than the usual time?","Is there an additional fee for a late checkout?","I need some extra time in the room, can I arrange a late checkout?","What's the latest time I can check out today?","Can you help me with a checkout extension?","I'd like to request a late checkout, please.","How can I extend my stay for a few more hours?","Is late checkout available for today?","Can I stay in the room a bit longer after the regular checkout time?","I need to check out later, is that okay?","What's the policy for late checkouts?","Can I pay an extra fee for a late checkout?","Are there any restrictions for extending my checkout time?","I'd like to request a checkout extension, can you assist?","Is there a limit to how late I can check out?","Can I extend my checkout without any additional charges?","How can I request a late checkout online?","Can I check out after noon?","I need some extra time before I check out, is that possible?","What's the latest checkout time available?","Can I stay in the room until the afternoon?","Is there a grace period for late checkouts?","Can I arrange a late checkout through the hotel app?","Are there any discounts available for late checkouts?"]
+          }
+          
+    ]
+}
