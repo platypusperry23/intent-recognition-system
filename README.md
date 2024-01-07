@@ -1,6 +1,6 @@
 # intent-recognition-system
 
-# This is currently just a prototype am working on this. Work In Progress !! 
+# Currently just a prototype am working on this. Work In Progress !! 
 Currenlty this works on 
 Python3.8.10 (arm64)
 
